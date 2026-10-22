@@ -1,0 +1,7 @@
+REHABLA PWA — PAQUETE NUEVO
+
+Contenido: index.html, manifest.webmanifest, sw.js e iconos PNG.
+
+Publicación gratuita sugerida: subir el CONTENIDO de esta carpeta a la raíz de un repositorio público de GitHub y activar Settings > Pages > Deploy from a branch > main > /(root). La instalación PWA requiere HTTPS.
+
+Importante: este prototipo es educativo y no reemplaza evaluación ni terapia profesional. Los registros se guardan localmente en el navegador. No se ha realizado un análisis antivirus independiente de este paquete; antes de publicarlo, analízalo con Windows Defender y no ignores ninguna alerta.
